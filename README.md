@@ -18,6 +18,8 @@ I'm a **QA Engineer / SDET** with experience in **manual and automation testing*
 - Manual testing samples (test cases, bug reports)
 - CI/CD pipeline examples
 
-📫 **LinkedIn:** https://www.linkedin.com/in/bedriye-sahin/
+📫 **LinkedIn:** https://www.linkedin.com/in/bedriyeşahin07
+
+
 
 
