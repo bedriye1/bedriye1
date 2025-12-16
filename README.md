@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**bedriye1/bedriye1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Bedriye
 
-Here are some ideas to get you started:
+I'm a **QA Engineer / SDET** with experience in **manual and automation testing** of web-based applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- Java, Selenium WebDriver, Cucumber (BDD)
+- TestNG, JUnit, Maven
+- API Testing: Rest Assured, Postman
+- CI/CD: Azure DevOps, Jenkins, AWS EC2
+- Databases: Oracle, MySQL, PostgreSQL
+- Agile / Scrum, SDLC, STLC
+
+### 📌 What you’ll find here
+- Automation test frameworks (Java + Selenium + Cucumber)
+- API testing projects
+- Manual testing samples (test cases, bug reports)
+- CI/CD pipeline examples
+
+📫 **LinkedIn:** https://www.linkedin.com/in/bedriye-sahin/
+
+
